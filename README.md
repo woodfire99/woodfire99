@@ -38,17 +38,7 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
 
-<br /><br />
-
-## 📊 GitHub 활동  
-
-![woodfire99님의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=woodfire99&show_icons=true&theme=tokyonight)  
-<br /><br />
-
-## 🧮 백준 알고리즘 현황  
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodfire90)](https://solved.ac/woodfire90)  
-<br /><br />
+<br />
 
 ## 🚧 현재 진행중인 프로젝트  
 
@@ -68,6 +58,63 @@
 
 [🔗 GitHub](https://github.com/woodfire99/Osaka_Event)  
 <br /><br />
+
+
+## 📂 과거 대표 프로젝트
+
+### 🌿 스마트팜 자동 제어 시스템
+📅 2022.09 ~ 2022.12  
+라즈베리파이와 센서를 활용한 온습도 제어 자동화 시스템
+실시간 센서 데이터를 기반으로 급수·환풍 장치 제어  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Sensor](https://img.shields.io/badge/Sensor-808080?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
+[GitHub 보기](https://github.com/KooYeonHo/Smart-Farm-project)
+
+---
+### 🐾 펫 레시피 추천 SNS 서비스
+📅 2023.03 ~ 2023.12  
+사용자 맞춤 자연식 레시피 공유 플랫폼    
+백엔드 & 프론트 전체 구현 + SNS 기능 + AI 레시피 추천  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-10A37F?style=flat-square&logo=openai&logoColor=white)  
+[GitHub 보기](https://github.com/HBNU-SWUNIV/come-capstone23-hyperweb)
+
+---
+
+### 🌡️ 비닐하우스 온도 시각화 웹앱
+📅 2023.09 ~ 2023.12  
+비닐하우스 내부의 온도 분포 데이터를 2D로 시각화  
+스마트팜 프로젝트를 확장하여, 온도 데이터를 지도 형태로 시각적 표현  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
+[GitHub 보기](https://github.com/your-greenhouse-viz-repo)
+
+---
+
+
+
+<br /><br />
+
+## 📊 GitHub 활동  
+
+![woodfire99님의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=woodfire99&show_icons=true&theme=tokyonight)  
+<br /><br />
+
+## 🧮 백준 알고리즘 현황  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woodfire90)](https://solved.ac/woodfire90)  
+<br /><br />
+
+
 
 ## 📫 Contact  
 

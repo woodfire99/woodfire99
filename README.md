@@ -96,7 +96,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
-[GitHub 보기](https://github.com/your-greenhouse-viz-repo)
+[GitHub 보기](https://github.com/HanbatEmbeddedProject)
 
 ---
 

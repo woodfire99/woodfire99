@@ -46,7 +46,7 @@
 ## 🚧 현재 진행중인 프로젝트(Current Projects)
 
 ### 🗾 Osaka Station Finder  
-📅 **2024년 4월 ~ 개발 중**  
+📅 **2025년 4월 ~ 개발 중**  
 오사카의 철도 지도와 각 역 주변의 이벤트, 분위기, 임대 정보를 시각적으로 제공하는 웹 서비스입니다.    
 (생성AI를 활용해 사용자의 조건에 맞는 역을 추천하는 기능도 구현 중입니다.)  
  (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station. Currently implementing AI-based station recommendations based on user preferences.)    

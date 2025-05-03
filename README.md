@@ -31,8 +31,6 @@
 ### 🗃️ Database / Server (데이터베이스 / 서버)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -40,72 +38,58 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
+---
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 <br />
 
 ## 🚧 현재 진행중인 프로젝트(Current Projects)
 
-### 🗾 Osaka Station Finder  
-📅 **2025년 4월 ~ 개발 중**  
-오사카의 철도 지도와 각 역 주변의 이벤트, 분위기, 임대 정보를 시각적으로 제공하는 웹 서비스입니다.    
-(생성AI를 활용해 사용자의 조건에 맞는 역을 추천하는 기능도 구현 중입니다.)  
- (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station. Currently implementing AI-based station recommendations based on user preferences.)    
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
+### 아이디어 구성중  
 
-[🔗 GitHub](https://github.com/woodfire99/Osaka_Event)  
-<br /><br />
-
+<br/><br/>
 
 ## 📂 과거 대표 프로젝트(Past Representative Projects)  
 
-### 🌿 스마트팜 자동 제어 시스템(Smart-farm)  
+### 스마트팜 자동 제어 시스템(Smart-farm)  
 📅 2022.09 ~ 2022.12  
 라즈베리파이와 센서를 활용한 온습도 제어 자동화 시스템
 실시간 센서 데이터를 기반으로 급수·환풍 장치 제어     
 (A smart farm automation system using Raspberry Pi and sensors, Controls watering and ventilation based on real-time sensor data)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![Sensor](https://img.shields.io/badge/Sensor-808080?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)  
 [GitHub 보기](https://github.com/KooYeonHo/Smart-Farm-project)
 
----
-### 🐾 펫 레시피 추천 SNS 서비스
+<br/>
+
+### 펫 레시피 추천 SNS 서비스
 📅 2023.03 ~ 2023.12  
 사용자 맞춤 자연식 레시피 공유 플랫폼    
 백엔드 & 프론트 전체 구현 + SNS 기능 + AI 레시피 추천  
 (A platform to share personalized natural pet food recipes, Fully developed backend/frontend, implemented SNS features, and integrated AI-based recipe recommendations)  
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-10A37F?style=flat-square&logo=openai&logoColor=white)  
 [GitHub 보기](https://github.com/HBNU-SWUNIV/come-capstone23-hyperweb)
 
+<br/>
 ---
 
-### 🌡️ 비닐하우스 온도 시각화 웹앱
+### 비닐하우스 온도 시각화 웹앱
 📅 2023.09 ~ 2023.12  
 비닐하우스 내부의 온도 분포 데이터를 2D로 시각화  
 스마트팜 프로젝트를 확장하여, 온도 데이터를 지도 형태로 시각적 표현  
 (2D visualization of greenhouse interior temperature data, An extension of the smart farm project that maps temperature distribution visually)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
 [GitHub 보기](https://github.com/HanbatEmbeddedProject)
 
----
+<br/>
 
-
+### Osaka Station Finder  
+📅 2025.04 ~ 2025.05 
+오사카의 철도 지도와 각 역 주변의 이벤트, 분위기, 임대 정보를 시각적으로 제공하는 웹 서비스입니다.    
+(생성AI를 활용해 사용자의 조건에 맞는 역을 추천하는 기능도 구현 중입니다.)  
+ (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station. Currently implementing AI-based station recommendations based on user preferences.)    
+[🔗 GitHub](https://github.com/woodfire99/Osaka_Event)  
 
 <br /><br />
 

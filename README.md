@@ -84,11 +84,10 @@
 
 <br/>
 
-### 오사카 역 추천 및 탐색 웹      
-📅 2025.04 ~ 2025.05 
+### 오사카 역 추천 및 탐색 웹        
+📅 2025.04 ~ 2025.05  
 오사카의 철도 지도와 각 역 주변의 이벤트, 분위기, 임대 정보를 시각적으로 제공하는 웹 서비스입니다.    
-(생성AI를 활용해 사용자의 조건에 맞는 역을 추천하는 기능도 구현 중입니다.)  
- (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station. Currently implementing AI-based station recommendations based on user preferences.)    
+ (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station.)    
 [🔗 GitHub](https://github.com/woodfire99/Osaka_Event)  
 
 <br /><br />

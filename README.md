@@ -48,10 +48,11 @@
 
 <br />
 
-## 🚧 현재 진행중인 프로젝트(Current Projects)
+## 현재 진행중인 프로젝트(Current Projects)
 
 ### 일본 온천 추천 AI 구성을 위한 데이터 전처리 과정중(5/4~)  
 During the data preprocessing phase for the Japanese onsen recommendation AI (from May 4)  
+[GitHub 보기](https://github.com/woodfire99/onsen)  
 
 <br/><br/>
 

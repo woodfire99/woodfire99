@@ -58,26 +58,15 @@ During the data preprocessing phase for the Japanese onsen recommendation AI (fr
 
 ## 📂 과거 대표 프로젝트(Past Representative Projects)  
 
-### 스마트팜 자동 제어 시스템(Smart-farm)  
-📅 2022.09 ~ 2022.12  
-라즈베리파이와 센서를 활용한 온습도 제어 자동화 시스템
-실시간 센서 데이터를 기반으로 급수·환풍 장치 제어     
-(A smart farm automation system using Raspberry Pi and sensors, Controls watering and ventilation based on real-time sensor data)  
-[GitHub 보기](https://github.com/KooYeonHo/Smart-Farm-project)
+### 오사카 역 추천 및 탐색 웹(Osaka Station Recommendation and Exploration Web)        
+📅 2025.04 ~ 2025.05  
+오사카의 철도 지도와 각 역 주변의 이벤트, 분위기, 임대 정보를 시각적으로 제공하는 웹 서비스입니다.    
+ (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station.)    
+[🔗 GitHub](https://github.com/woodfire99/Osaka_Event)  
 
 <br/>
 
-### 펫 레시피 추천 SNS 서비스
-📅 2023.03 ~ 2023.12  
-사용자 맞춤 자연식 레시피 공유 플랫폼    
-백엔드 & 프론트 전체 구현 + SNS 기능 + AI 레시피 추천  
-(A platform to share personalized natural pet food recipes, Fully developed backend/frontend, implemented SNS features, and integrated AI-based recipe recommendations)  
-[GitHub 보기](https://github.com/HBNU-SWUNIV/come-capstone23-hyperweb)
-
-<br/>
----
-
-### 비닐하우스 온도 시각화 웹앱
+### 비닐하우스 온도 시각화 웹(Greenhouse Temperature Visualization Web App)  
 📅 2023.09 ~ 2023.12  
 비닐하우스 내부의 온도 분포 데이터를 2D로 시각화  
 스마트팜 프로젝트를 확장하여, 온도 데이터를 지도 형태로 시각적 표현  
@@ -86,11 +75,23 @@ During the data preprocessing phase for the Japanese onsen recommendation AI (fr
 
 <br/>
 
-### 오사카 역 추천 및 탐색 웹        
-📅 2025.04 ~ 2025.05  
-오사카의 철도 지도와 각 역 주변의 이벤트, 분위기, 임대 정보를 시각적으로 제공하는 웹 서비스입니다.    
- (A web service that visually provides Osaka’s rail map along with events, local atmosphere, and rent data for each station.)    
-[🔗 GitHub](https://github.com/woodfire99/Osaka_Event)  
+### 펫 레시피 추천 SNS 서비스(Pet Recipe Recommendation SNS)  
+📅 2023.03 ~ 2023.12  
+사용자 맞춤 자연식 레시피 공유 플랫폼    
+백엔드 & 프론트 전체 구현 + SNS 기능 + AI 레시피 추천  
+(A platform to share personalized natural pet food recipes, Fully developed backend/frontend, implemented SNS features, and integrated AI-based recipe recommendations)  
+[GitHub 보기](https://github.com/HBNU-SWUNIV/come-capstone23-hyperweb)
+
+<br/>
+
+### 스마트팜 자동 제어 시스템(Smart-farm)   
+📅 2022.09 ~ 2022.12  
+라즈베리파이와 센서를 활용한 온습도 제어 자동화 시스템
+실시간 센서 데이터를 기반으로 급수·환풍 장치 제어     
+(A smart farm automation system using Raspberry Pi and sensors, Controls watering and ventilation based on real-time sensor data)  
+[GitHub 보기](https://github.com/KooYeonHo/Smart-Farm-project)
+
+
 
 <br /><br />
 

@@ -14,9 +14,9 @@
 
 <br/>
 
-🌐 Blog / Notes  
-→ https://woodfire99.github.io  
-(Tech · Travel · Personal Notes)
+🌐 Blog
+https://woodfire99.github.io  
+
 
 
 ## 🛠 Tech Stack  
